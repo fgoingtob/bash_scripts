@@ -7,6 +7,6 @@ if
 			rm -d $dirname
 else
 	echo "filename"
-		read filenam
+		read filename
 			rm -i $filename
 fi
